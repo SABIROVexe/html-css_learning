@@ -29,7 +29,7 @@ nav a{
 }
 
 .podbr{
-    color: yellow;
+    color: #FFC94F;
 }
 
 .logo{
@@ -45,4 +45,36 @@ nav a{
     margin-left: 1000px;
 
    
+}
+
+h1{
+    font-size: 40px;
+    width: 561px;
+    display: block;
+    position: absolute;
+    margin-top: 209px;
+    margin-left: 319px;
+}
+
+.text1{
+    font-size: 18px;
+    width: 485px;
+    display: block;
+    position: absolute;
+    margin-top: 360px;
+    margin-left: 319px;
+}
+
+.button1{
+    position: absolute;
+    width: 197px;
+    height: 44px;
+    background-color: #FFC94F;
+    margin-left: 319px;
+    margin-top: 10px;
+}
+
+.button1_text{
+    margin-top: 11px;
+    margin-left: 55px;
 }
