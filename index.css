@@ -12,7 +12,6 @@ nav ul{
     display: flex;
     justify-content: center;
     
-
 }   
 
 nav li{
@@ -42,9 +41,8 @@ nav a{
 .room{
     width: 969px;
     height: 518px;
-    margin-left: 1000px;
-
-   
+    margin-left: 951px;
+    margin-top: -79px;   
 }
 
 h1{
@@ -52,7 +50,7 @@ h1{
     width: 561px;
     display: block;
     position: absolute;
-    margin-top: 209px;
+    margin-top: 150px;
     margin-left: 319px;
 }
 
@@ -61,7 +59,7 @@ h1{
     width: 485px;
     display: block;
     position: absolute;
-    margin-top: 360px;
+    margin-top: 300px;
     margin-left: 319px;
 }
 
@@ -71,10 +69,22 @@ h1{
     height: 44px;
     background-color: #FFC94F;
     margin-left: 319px;
-    margin-top: 10px;
+    margin-top: 0px;
 }
 
 .button1_text{
     margin-top: 11px;
     margin-left: 55px;
+}
+
+.head1{
+    font-size: 40px;
+    margin-left: 319px;
+    margin-top: 170px;
+
+}
+
+.text2{
+    margin-left: 319px;
+    font-size: 20px;
 }
