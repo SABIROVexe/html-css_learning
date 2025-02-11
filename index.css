@@ -11,8 +11,11 @@ nav ul{
     display: block;
     display: flex;
     justify-content: center;
-    
+
 }   
+
+
+
 
 nav li{
     display: inline-block;
@@ -25,6 +28,11 @@ nav a{
     padding: 15px;
     display: block;
     margin-top: 7px;
+    transition: transform 0.3s;
+}
+
+nav a:hover{
+    transform: scale(1.1);
 }
 
 .podbr{
