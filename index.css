@@ -36,6 +36,11 @@ nav a{
     width: 75px;
     position: absolute;
     margin-left: 450px;
+    transition: transform 0.3s;
+}
+
+.logo:hover{
+    transform: scale(1.2);
 }
 
 .room{
